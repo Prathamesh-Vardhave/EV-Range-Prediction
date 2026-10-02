@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+*.csv
+data/
+
+# Model artifacts
+model/*.pkl
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Env vars
+.env
